@@ -1,4 +1,4 @@
-# Thực hành N2: QUẢN TRỊ MẠNG LƯỚI WORDPRESS MULTISITE
+# Thực hành: QUẢN TRỊ MẠNG LƯỚI WORDPRESS MULTISITE
 
 **Thông tin sinh viên:**
 * **Họ và tên:** Ngô Đức Dũng
@@ -26,4 +26,3 @@ Repository này chứa các tệp tin kết quả của bài thực hành:
 5. Kiểm tra kết quả tại menu **Site Stats** (cột bên trái của Network Admin). Dữ liệu sẽ lấy động từ các site con qua hàm `switch_to_blog()`.
 
 ---
-*Dự án được thực hiện trong khuôn khổ bài thực hành môn học phần Quản trị mạng lưới (Tháng 4/2026).*
